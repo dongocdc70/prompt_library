@@ -312,8 +312,8 @@ quá 4 lần số bàn. Trong một ngày sản xuất, xưởng có thể thu �
 nhuận lớn nhất là bao nhiêu tiền? Viết câu trả lời theo đơn vị triệu
 đồng.
 
-=============== MẪU CÁC CÂU ĐIỀN KẾT QUẢ CHO TRONDETRACNGHIEM =========
-(gần như going hệt SmartTest, chỉ khác là đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{A.''} thay vì ``\textbf{Đáp án:''}
+=============== MẪU CÁC CÂU ĐIỀN KẾT QUẢ CHO SMARTTEST =========
+(gần như going hệt TRONDETRACNGHIEM, chỉ khác là đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{Đáp án:''} thay vì ``\textbf{A.''}
 
 \textbf{Câu 1.} Cho hình chữ nhật \(ABCD\) có \(AB = 4,AD = 6\). Độ dài
 của vectơ
