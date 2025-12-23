@@ -1,0 +1,7 @@
+ocr file này, và viết cả file dưới dạng latex thuần code không render (cho vào code snippet).
+
+những hình vẽ thì dùng plaintext placeholder (THÊM HÌNH VẼ).
+
+bảng biểu cũng phải được latex chuẩn.
+
+sau đó, sử dụng code latex tạo được, chuẩn hoá theo câu lệnh

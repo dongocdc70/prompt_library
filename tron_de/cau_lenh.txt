@@ -1,0 +1,292 @@
+Sau đây là mẫu bài thi trắc nghiệm chuẩn. Bạn sẽ làm theo từ nay về sau, trừ khi tôi đưa ra mẫu khác
+
+QUAN TRỌNG: 
+- TÔI MUỐN ĐẦU RA DƯỚI DẠNG CODE LATEX, KHÔNG PHẢI MARKDOWN. TUYỆT ĐỐI KHÔNG RENDER LATEX, ĐỂ NGUYÊN DẠNG CODE.
+- KHÔNG CẦN TIÊU ĐỀ CỦA ĐỀ THI, BẮT ĐẦU LUÔN VÀO CÁC PHẦN VÀ CÁC CÂU HỎI
+
+=========== QUY TẮC TRÌNH BÀY ================
+
+\textbf{Câu hỏi~}phải bắt đầu bằng chữ "\textbf{Câu}," ví dụ: Câu 1, Câu 2,... Nhưng phải thống nhất chỉ dùng một loại duy nhất trong toàn đề.\textbf{~}
+
+Các~\textbf{đáp án}~bắt buộc phải được bắt đầu bằng các từ~\textbf{"A.", "B.", "C.", "D.".}
+
+Nếu cần~\textbf{cố định phương án}~nào thì ta đặt them dấu~\textbf{\#}~liền trước, ví dụ:~\textbf{"\#A."}
+
+Ngoài ra những câu có chữ :~\textbf{"Phương án A, B đúng"}~hoặc~\textbf{"Tất cả các phương án trên\ldots"}\ldots{} phần mềm sẽ tự động cố định, không trộn.
+
+\textbf{Đáp án ĐÚNG}~bạn phải GẠCH CHÂN. VD: Nếu đáp án A đúng thì ghi \textbf{\ul{A}.}
+
+Các câu hỏi và đáp án có Hình ảnh thì Hình ảnh cần để ở chế độ~\textbf{Inline With Text}~(để sau này dễ hoán vị, hình ảnh không bị nhảy lung tung).
+
+Ngoài ra phần mềm còn hỗ trợ trộn đề theo~\textbf{nhóm câu hỏi}: \textless pr\textgreater: Nhóm câu hỏi không cần trộn câu, chỉ trộn đáp án (Ví dụ thường áp dụng cho các phần kiểm tra bài Nghe của môn Tiếng Anh,...).
+
+\textbf{Loại câu hỏi trắc nghiệm}~lựa chọn A, B, C, D: \textless g3\textgreater{} hoặc \textless g\textgreater{}
+
+Loại câu hỏi đáp án~\textbf{Đúng/Sai}: Có một trong các cụm từ:~\emph{\textbf{câu hỏi đúng sai; trắc nghiệm đúng sai; trả lời đúng
+sai, chọn đúng hoặc sai}}. \textbf{Hoặc~}có\textbf{~\textless g2\textgreater{}}
+
+Loại câu hỏi trả lời ngắn, điền đáp án: Có một trong các cụm từ:~\emph{\textbf{điền kết quả, hoặc trả lời ngắn}}. \textbf{Hoặc~}có\textbf{~\textless g1\textgreater{}}
+
+========== 2 DẠNG CHUẨN HÓA: SMARTTEST VÀ TRONDETRACNGHIEM ================ 
+
+Nếu chuẩn hoá theo SmartTest, đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{Đáp án:''}
+Còn nếu chuẩn hoá theo trondetracnghiem, đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{A.''}
+
+MẶC ĐỊNH DÙNG TRONDETRACNGHIEM
+
+========== ĐỀ THI MẪU THEO SMARTTEST ================ 
+
+\textless g3\textgreater{} \textbf{PHẦN I: Các câu trắc nghiệm lựa chọn}
+
+\begin{quote}
+Câu 1: Cho \(x,y > 0\) và \(\alpha,\beta \in \mathbb{R}\). Khẳng định
+nào sau đây là \textbf{sai}?
+
+\textbf{A.} \(x^{\alpha}x^{\beta} = {x^{\alpha +}}^{\beta}\).
+\textbf{B.}
+\(\left( x^{\alpha} \right)^{\beta} = {x^{\alpha}}^{\beta}\).
+\textbf{\ul{C}.} \(x^{\alpha} + y^{\alpha} = (x + y)^{\alpha}\).
+\textbf{D.} \((xy)^{\alpha} = x^{\alpha}y^{\alpha}\).
+\end{quote}
+
+Câu 2: Hàm số nào dưới đây nghịch biến trên tập xác định của nó?
+
+\textbf{\ul{A}.} \(y = \log_{\frac{2}{3}}x\). \textbf{B.}
+\(y = \log_{\frac{5}{2}}x\). \textbf{C.} \(y = \ln x\). \textbf{D.}
+\(y = \log x\)
+
+Câu 3: Tập nghiệm của phương trình
+\(\left( \frac{1}{7} \right)^{x^{2} - 2x - 3} = 7^{x + 1}\) là:
+
+\textbf{A.} \(S = \left\{ - 1;2 \right\}\)\textsubscript{.} \textbf{B.}
+\(S = \left\{ - 1;4 \right\}\)\textsubscript{.} \textbf{C.}
+\(S = \left\{ - 1 \right\}\)\textsubscript{.} \textbf{\ul{D}.}
+\(S = \left\{ 2 \right\}\)\textsubscript{.}
+
+Câu 4: Tập nghiệm của bất phương trình \(\log_{3}(x + 4) \leq 3\) là:
+
+\begin{quote}
+\textbf{\ul{A}.} \(\left. \  - 4;23 \right.\ \). \textbf{B.}
+\(\left. \  - \infty;23 \right.\ \). \textbf{C.}
+\(\left. \  - \infty;27 \right.\ \). \textbf{D.}
+\(\left. \  - 4;5 \right.\ \).
+\end{quote}
+
+Câu 5: Cho hình chóp \(S.ABCD\) có tất cả các cạnh bằng nhau (tham khảo
+hình vẽ bên dưới). Số đo của góc giữa hai đường thẳng \(SB\) và \(AD\)
+bằng
+
+\includegraphics[width=2.1in,height=1.73682in]{media/image1.png}
+
+\begin{quote}
+\textbf{A.} \(45{^\circ}\). \textbf{B.} \(30{^\circ}\). \textbf{\ul{C}.}
+\(60{^\circ}\). \textbf{D.} \(90{^\circ}\).
+\end{quote}
+
+Câu 6: Cho hình chóp \(S.ABC\) có \(SA\bot(ABC),\) đáy \(ABC\) vuông tại
+\(A\)\textbf{.} Mệnh đề nào sau đây \textbf{sai}:
+
+\textbf{\ul{A}.} Góc giữa \((SBC),(SAC)\) là góc \(SCB.\).
+
+\textbf{B.} \((SAB)\bot(ABC).\).
+
+\textbf{C.} \((SAB)\bot(SAC).\).
+
+\textbf{D.} Vẽ \(AH\bot BC,H \in BC.\)
+\includegraphics[width=0.125in,height=0.3in]{media/image2.png} Góc giữa
+\((SBC)\), \((ABC)\) là góc \emph{AHS}
+
+Câu 7: Cho hình chóp đều \(S.ABCD\) có chiều cao \(a\), \(AC = 2a\). Gọi
+\(\alpha\) là góc giữa hai mặt phẳng \((SCD)\) và mặt phẳng \((ABCD)\).
+Khẳng định nào sau đây đúng?
+
+\textbf{\ul{A}.} \(\tan\alpha = \sqrt{2}\). \textbf{B.}
+\(\alpha = 45^{o}\). \textbf{C.} \(\tan\alpha = \frac{\sqrt{2}}{2}\).
+\textbf{D.} \(\alpha = 60^{o}\).
+
+\begin{quote}
+Câu 8: Cho khối chóp
+\includegraphics[width=0.51667in,height=0.2in]{media/image3.wmf} có đáy
+\includegraphics[width=0.39167in,height=0.2in]{media/image4.wmf} là tam
+giác đều cạnh
+\includegraphics[width=0.13333in,height=0.15833in]{media/image5.wmf}.
+Biết \includegraphics[width=0.89167in,height=0.275in]{media/image6.wmf}
+và \includegraphics[width=0.69167in,height=0.25in]{media/image7.wmf}.
+Thể tích khối chóp
+\includegraphics[width=0.51667in,height=0.2in]{media/image8.wmf} là
+\end{quote}
+
+\textbf{A.}
+\includegraphics[width=0.41667in,height=0.475in]{media/image9.wmf}.
+\textbf{\ul{B}.}
+\includegraphics[width=0.24167in,height=0.45833in]{media/image10.wmf}.
+\textbf{C.}
+\includegraphics[width=0.41667in,height=0.475in]{media/image11.wmf}.
+\textbf{D.}
+\includegraphics[width=0.30833in,height=0.45833in]{media/image12.wmf}.
+
+Câu 9: Cho \(A\)là biến cố của một phép thử. Trong các mệnh đề sau mệnh
+đề nào đúng.
+
+\textbf{A.}
+\(P\left( A \cap \overline{A} \right) = P(A) + P\left( \overline{A} \right)\).
+\textbf{B.} \(P(A) + P\left( \overline{A} \right) = 0\).
+
+\textbf{\ul{C}.} \(P(A) + P\left( \overline{A} \right) = 1\) \textbf{D.}
+\(P(A).P\left( \overline{A} \right) = 0\)
+
+Câu 10: Trong một thùng có \(40\) tấm thẻ được đánh số thứ tự từ \(1\)
+đến \(40\). Người ta rút ra từ thùng phiếu một tấm thẻ bất kì. Tính xác
+suất của biến cố `` tấm thẻ rút được có số thứ tự chia hết cho \(4\)
+hoặc\(5\)''
+
+\textbf{A.} \(\frac{1}{2}\). \textbf{B.} \(\frac{1}{3}\).
+\textbf{\ul{C}.} \(\frac{2}{5}\). \textbf{D.} \(\frac{9}{20}\).
+
+Câu 11: Tiếp tuyến của đồ thị hàm số \(y = x^{3} - 2x + 1\) tại điểm có
+hoành độ \(x_{0} = - 1\) có hệ số góc bằng
+
+\begin{quote}
+\textbf{\ul{A}.} \(1\). \textbf{B.} \(- 5\). \textbf{C.} \(2\).
+\textbf{D.} \(0\).
+\end{quote}
+
+Câu 12: Đạo hàm cấp hai của hàm số \(y = f(x) = x\sin x - 3\) là biểu
+thức nào trong các biểu thức sau?
+
+\textbf{A.} \(f^{''(x)\sin x\cos x}\). \textbf{B.} \(f^{''(x)\sin x}\).
+
+\textbf{C.} \(f^{''(x)\cos x}\). \textbf{\ul{D}.}
+\(f^{''(x)\cos x\sin x}\)
+
+\textless g2\textgreater{} \textbf{PHẦN II: Các câu hỏi ĐÚNG SAI}
+
+\begin{quote}
+Câu 13: Cho phương trình
+\pandocbounded{\includegraphics[keepaspectratio]{media/image13.wmf}} với
+\pandocbounded{\includegraphics[keepaspectratio]{media/image14.wmf}} là
+tham số. Xét tính đúng sai của các mệnh đề sau.
+
+a) Điều kiện xác định của phương trình là \(x \geq 0\).
+
+b) Khi \(m = 1\) phương trình có một nghiệm là \(x = \log_{3}2\).
+
+\ul{c)} Đặt \({}{\log{}_{3}}\left( 3^{x} - 1 \right) = t\). Khi đó
+phương trình đã cho trở thành \(t^{2} + 2t - 3m = 0\).
+
+\ul{d)} Phương trình đã cho có hai nghiệm phân biệt khi và chỉ khi
+\(m > - \frac{1}{3}\).
+\end{quote}
+
+Câu 14: Cho khối chóp tứ giác đều \(S.ABCD\) có
+\(AB = a,SA = \frac{a\sqrt{6}}{3}.\)
+
+\ul{a)} Chiều cao của khối chóp \(S.ABCD\) bằng \(\frac{a\sqrt{6}}{6}\).
+
+b) Thể tích của khối chóp \(S.ABCD\) bằng \(\frac{a^{3}\sqrt{6}}{6}\).
+
+\ul{c)} Số đo góc giữa đường thẳng \(SA\) và mặt phẳng \((ABCD)\) bằng
+\(30{^\circ}\).
+
+d) Côsin của số đo góc nhị diện \(\lbrack S,CD,B\rbrack\) bằng
+\(\frac{\sqrt{15}}{15}\).
+
+Câu 15: Trong đề kiểm tra 15 phút môn Toán có \(20\) câu trắc nghiệm.
+Mỗi câu trắc nghiệm có \(4\) phương án trả lời, trong đó chỉ có một
+phương án trả lời đúng. Bình giải chắc chắn đúng \(10\) câu, \(10\) câu
+còn lại lựa chọn ngẫu nhiên đáp án. Biết rằng mỗi câu trả lời đúng được
+\(0,5\) điểm, trả lời sai không bị trừ điểm.
+
+\ul{a)} Bình chắc chắn được 5 điểm.
+
+\ul{b)} Xác suất trả lời sai ở một câu là \(\frac{3}{4}\).
+
+c) Xác suất để Bình đạt đúng 8 điểm là
+\(\left( \frac{1}{4} \right)^{6}.\left( \frac{3}{4} \right)^{4}\).
+
+d) Xác suất để Bình đạt được từ 9 điểm trở lên nhỏ hơn 0,0004.
+
+\begin{quote}
+Câu 16: Một chuyển động thẳng có quãng đường di chuyển được xác định bởi
+phương trình\(s(t) = 2t^{2} + t - 1\), trong đó \(s\) tính bằng mét và
+\(t\) tính bằng giây.
+
+\ul{a)} Tốc độ tức thời của chuyển động tại thời điểm \(t_{0}\) là
+\(s'\left( t_{0} \right) = \lim_{t \rightarrow t_{0}}\frac{s(t) - s\left( t_{0} \right)}{t - t_{0}}\).
+
+b) Tại thời điểm \(t = 2\) tốc độ tức thời của chuyển động là \(10m/s\).
+
+c) \(s(3) - s'(1) = 3\).
+
+\ul{d)} Phương trình
+\(s(t) - \left\lbrack (t + 1).s(t) \right\rbrack' + 27 = 0\) có \(2\)
+nghiệm trái dấu.
+\end{quote}
+
+\textless g1\textgreater{} \textbf{PHẦN 3: Các câu điền kết quả}
+
+Câu 17: Cho \(\log_{9}5 = a\), \(\log_{4}7 = b\) và \(\log_{2}3 = c\) .
+Biết \(\log_{24}175 = \frac{mb + nac}{pc + 3}\) với
+\includegraphics[width=0.75833in,height=0.21667in]{media/image15.wmf}.
+Khi đó giá trị của biểu thức
+\includegraphics[width=1.10833in,height=0.21667in]{media/image16.wmf}
+bằng bao nhiêu?
+
+Đáp án: 12
+
+Câu 18: Cho hàm số \(y = \frac{x^{3}}{3} - 2x + 1\) có đồ thị \((C)\).
+Phương trình tiếp tuyến của \((C)\) tại giao điểm của \((C)\) với trục
+tung có hệ số góc bằng bao nhiêu?
+
+Đáp án: 2
+
+Câu 19: Một chất điểm chuyển động có quãng đường được cho bởi phương
+trình \(s(t) = \frac{1}{6}t^{4} - \frac{4}{3}t^{3} + 5t^{2} - 7\), trong
+đó \(t > 0\) với \(t\) tính bằng giây \((s)\), \(s\) tính bằng mét
+\((m)\). Vận tốc chuyển động của chất điểm tại thời điểm chất điểm có
+gia tốc chuyển động nhỏ nhất là \(\frac{a}{b}\) với \(\frac{a}{b}\)là
+phân số tối giản và \(a,b\mathbb{\in Z}\). Tính \(T = a - 2b\)
+
+Đáp án: 22
+
+Câu 20: Cho hình chóp tứ giác đều \(S.ABCD\) có đáy là hình vuông cạnh
+\(a\), cạnh bên \(SA = a\sqrt{2}\). Khi \(a = \sqrt{42}\) thì khoảng
+cách giữa hai đường thẳng \(AB\) và \(SC\) bằng bao nhiêu?
+
+Đáp án: 6
+
+Câu 21: Cho hình chóp \(S.ABC\) có đáy \(ABC\) là tam giác vuông cân tại
+\(A,\) biết \(AB = a\), \(SA\) vuông góc với mặt phẳng đáy và khoảng
+cách từ \(A\) đến mặt phẳng \((SBC)\) bằng \(\frac{a\sqrt{21}}{7}\). Khi
+\(a = \sqrt{3}\) thì thể tích của khối chóp đã cho bằng bao nhiêu?
+
+Đáp án: 1.5
+
+Câu 22: Trong dịp Tết Trung thu một nhóm các em thiếu niên tham gia trò
+chơi ``Ném vòng vào cổ chai lấy thưởng''. Mỗi em được ném 3 vòng. Xác
+suất ném vòng vào cổ trai lần đầu là 0,75. Nếu ném trượt lần đầu thì xác
+suất ném vào cổ chai lần thứ hai là 0,6. Nếu ném trượt cả hai lần ném
+đầu tiên thì xác suất ném vào cổ chai ở lần thứ ba (lần cuối) là 0,3.
+Chọn ngẫu nhiên một em trong nhóm chơi. Xác suất để em đó ném vào đúng
+cổ chai là bao nhiêu?
+
+Đáp án: 0.81
+
+=============== MẪU CÁC CÂU ĐIỀN KẾT QUẢ CHO TRONDETRACNGHIEM =========
+(gần như going hệt SmartTest, chỉ khác là đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{A.''} thay vì ``\textbf{Đáp án:''}
+
+Câu 17: Cho \(\log_{9}5 = a\), \(\log_{4}7 = b\) và \(\log_{2}3 = c\) .
+Biết \(\log_{24}175 = \frac{mb + nac}{pc + 3}\) với
+\includegraphics[width=0.75833in,height=0.21667in]{media/image15.wmf}.
+Khi đó giá trị của biểu thức
+\includegraphics[width=1.10833in,height=0.21667in]{media/image16.wmf}
+bằng bao nhiêu?
+
+A. 12
+
+Câu 18: Cho hàm số \(y = \frac{x^{3}}{3} - 2x + 1\) có đồ thị \((C)\).
+Phương trình tiếp tuyến của \((C)\) tại giao điểm của \((C)\) với trục
+tung có hệ số góc bằng bao nhiêu?
+
+A. 2
+

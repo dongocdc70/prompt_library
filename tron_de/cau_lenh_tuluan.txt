@@ -1,0 +1,335 @@
+Sau đây là mẫu bài thi chuẩn (trắc nghiệm + tự luận). Bạn sẽ làm theo từ nay về sau, trừ khi tôi đưa ra mẫu khác
+
+QUAN TRỌNG: 
+- TÔI MUỐN ĐẦU RA DƯỚI DẠNG CODE LATEX, KHÔNG PHẢI MARKDOWN. TUYỆT ĐỐI KHÔNG RENDER LATEX, ĐỂ NGUYÊN DẠNG CODE.
+- KHÔNG CẦN TIÊU ĐỀ CỦA ĐỀ THI, BẮT ĐẦU LUÔN VÀO CÁC PHẦN VÀ CÁC CÂU HỎI
+
+=========== QUY TẮC TRÌNH BÀY ================
+
+\textbf{Câu hỏi~}phải bắt đầu bằng chữ "\textbf{Câu}," ví dụ: Câu 1, Câu 2,... Nhưng phải thống nhất chỉ dùng một loại duy nhất trong toàn đề.\textbf{~}
+
+Các~\textbf{đáp án}~bắt buộc phải được bắt đầu bằng các từ~\textbf{"A.", "B.", "C.", "D.".}
+
+Nếu cần~\textbf{cố định phương án}~nào thì ta đặt them dấu~\textbf{\#}~liền trước, ví dụ:~\textbf{"\#A."}
+
+Ngoài ra những câu có chữ :~\textbf{"Phương án A, B đúng"}~hoặc~\textbf{"Tất cả các phương án trên\ldots"}\ldots{} phần mềm sẽ tự động cố định, không trộn.
+
+\textbf{Đáp án ĐÚNG}~bạn phải GẠCH CHÂN. VD: Nếu đáp án A đúng thì ghi \textbf{\ul{A}.}
+
+Các câu hỏi và đáp án có Hình ảnh thì Hình ảnh cần để ở chế độ~\textbf{Inline With Text}~(để sau này dễ hoán vị, hình ảnh không bị nhảy lung tung).
+
+Ngoài ra phần mềm còn hỗ trợ trộn đề theo~\textbf{nhóm câu hỏi}: \textless pr\textgreater: Nhóm câu hỏi không cần trộn câu, chỉ trộn đáp án (Ví dụ thường áp dụng cho các phần kiểm tra bài Nghe của môn Tiếng Anh,...).
+
+\textbf{Loại câu hỏi trắc nghiệm}~lựa chọn A, B, C, D: \textless g3\textgreater{} hoặc \textless g\textgreater{}
+
+Loại câu hỏi đáp án~\textbf{Đúng/Sai}: Có một trong các cụm từ:~\emph{\textbf{câu hỏi đúng sai; trắc nghiệm đúng sai; trả lời đúng
+sai, chọn đúng hoặc sai}}. \textbf{Hoặc~}có\textbf{~\textless g2\textgreater{}}
+
+Loại câu hỏi trả lời ngắn, điền đáp án: Có một trong các cụm từ:~\emph{\textbf{điền kết quả, hoặc trả lời ngắn}}. \textbf{Hoặc~}có\textbf{~\textless g1\textgreater{}}
+
+Loại câu hỏi tự luận: Có \textbf{\textless g0\textgreater{}}
+
+========== 2 DẠNG CHUẨN HÓA: SMARTTEST VÀ TRONDETRACNGHIEM ================ 
+
+Nếu chuẩn hoá theo SmartTest, đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{Đáp án:''}
+Còn nếu chuẩn hoá theo trondetracnghiem, đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{A.''}
+
+MẶC ĐỊNH DÙNG TRONDETRACNGHIEM
+
+========== ĐỀ THI MẪU THEO TRONDETRACNGHIEM ================
+
+\textbf{\textless g3\textgreater{}}
+
+\textbf{PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn.} Học sinh trả
+lời từ câu 1 đến câu 12. Mỗi câu hỏi Học sinh chỉ chọn một phương án.
+
+\textbf{Câu 1.} Mệnh đề toán học nào sau đây là mệnh đề sai?
+
+\textbf{A.} Số 2 là số nguyên. \textbf{B.} Số 2 là số hữu tỉ.
+
+\textbf{C.} Số 2 là số hữu tỉ dương. \textbf{\ul{D}.} Số 2 không là số
+nguyên tố.
+
+\textbf{Câu 2.} Cho hai tập hợp \(A\) và \(B\). Tập hợp \(A \cap B\) là
+
+\textbf{A.} tập hợp tất cả các phần tử thuộc \(A\) hoặc thuộc \(B\).
+
+\textbf{\ul{B}.} tập hợp tất cả các phần tử vừa thuộc \(A\) vừa thuộc
+\(B\).
+
+\textbf{C.} tập hợp các phần tử thuộc \(A\) nhưng không thuộc \(B\).
+
+\textbf{D.} tập hợp tất cả các phần tử thuộc \(B\) nhưng không thuộc
+\(A\).
+
+\textbf{Câu 3.} Tập hợp rỗng là
+
+\textbf{A.} tập hợp có đúng 1 phần tử. \textbf{B.} tập hợp có đúng 2
+phần tử.
+
+\textbf{C.} tập hợp có vô số phần tử. \textbf{\ul{D}.} tập hợp không có
+phần tử nào.
+
+\textbf{Câu 4.} Cho hai tập hợp \(A\) và \(B\) khác \(\varnothing\). Tập
+hợp \(A\) là tập hợp con của tập hợp \(B\) khi và chỉ khi
+
+\textbf{A.} có một phần tử của \(A\) là phần tử của \(B\).
+
+\textbf{B.} mọi phần tử của \(B\) đều là phần tử của \(A\).
+
+\textbf{\ul{C}.} mọi phần tử của \(A\) đều là phần tử của \(B\).
+
+\textbf{D.} hiệu của \(A\) và \(B\) là tập hợp khác rỗng.
+
+\textbf{Câu 5.} Phát biểu nào nào sau đây là đúng?
+
+\textbf{\ul{A}.} Với hai vectơ bất kì
+\(\overrightarrow{a},\overrightarrow{b}\) và số thực \(k\), ta có:
+\(k(\overrightarrow{a} + \overrightarrow{b}) = k\overrightarrow{a} + k\overrightarrow{b}\).
+
+\textbf{B.} Với hai vectơ bất kì
+\(\overrightarrow{a},\overrightarrow{b}\) và số thực \(k\), ta có:
+\(k(\overrightarrow{a} + \overrightarrow{b}) = \overrightarrow{a}k + \overrightarrow{b}k\).
+
+\textbf{C.} Với hai vectơ bất kì
+\(\overrightarrow{a},\overrightarrow{b}\) và số thực \(k\), ta có:
+\((\overrightarrow{a} + \overrightarrow{b})k = \overrightarrow{a}k + \overrightarrow{b}k\).
+
+\textbf{D.} Với hai vectơ bất kì
+\(\overrightarrow{a},\overrightarrow{b}\) và số thực \(k\), ta có:
+\(k(\overrightarrow{a} + \overrightarrow{b}) = k\overrightarrow{a} + \overrightarrow{b}k\).
+
+\textbf{Câu 6.} Cho góc nhọn \(\alpha\) tùy ý. Phát biểu nào sau đây là
+đúng?
+
+\textbf{\ul{A}.}
+\(\text{sin}\left( 90^{\circ} - \alpha \right) = \text{cos}\alpha\).
+\textbf{B.} \(\text{sin}(90 - \alpha) = \text{sin}\alpha\).
+
+\textbf{C.} \(\text{sin}(90 - \alpha) = - \text{sin}\alpha\).
+\textbf{D.}
+\(\text{sin}\left( 90^{\circ} - \alpha \right) = - \text{cos}\alpha\).
+
+\textbf{Câu 7.} Cho góc nhọn \(\alpha\) tùy ý. Phát biểu nào sau đây là
+đúng?
+
+\textbf{A.}
+\(\text{cos}\left( 180^{\circ} - \alpha \right) = \text{cos}\alpha\).
+\textbf{B.}
+\(\text{cos}\left( 180^{\circ} - \alpha \right) = \text{sin}\alpha\).
+
+\textbf{\ul{C}.} \(\text{cos}(180 - \alpha) = - \text{cos}\alpha\).
+\textbf{D.}
+\(\text{cos}\left( 180^{\circ} - \alpha \right) = - \text{sin}\alpha\).
+
+\textbf{Câu 8.} Cho \(G\) là trọng tâm \(\bigtriangleup ABC\) và điểm
+\(M\) tùy ý. Phát biểu nào sau đây là đúng?
+
+\textbf{A.}
+\(\overrightarrow{MA} + \overrightarrow{MB} + \overrightarrow{MC} = \overrightarrow{0}\).
+\textbf{B.}
+\(\overrightarrow{MA} + \overrightarrow{MB} + \overrightarrow{MC} = \overrightarrow{MG}\).
+
+\textbf{C.}
+\(\overrightarrow{MA} + \overrightarrow{MB} + \overrightarrow{MC} = 2\overrightarrow{MG}\).
+\textbf{\ul{D}.}
+\(\overrightarrow{MA} + \overrightarrow{MB} + \overrightarrow{MC} = 3\overrightarrow{MG}\).
+
+\textbf{Câu 9.} Cho tam giác nhọn \(ABC\) nội tiếp đường tròn bán kính
+\(R\). Phát biểu nào sau đây là đúng?
+
+\textbf{\ul{A}.} \(\frac{BC}{\text{sin}A} = 2R\). \textbf{B.}
+\(\frac{BC}{\text{cos}A} = 2R\). \textbf{C.}
+\(\frac{AB}{\text{cos}A} = 2R\). \textbf{D.}
+\(\frac{AB}{\text{sin}A} = 2R\).
+
+\textbf{Câu 10.} Cho tam giác \(ABC\). Phát biểu nào sau đây là đúng?
+
+\textbf{A.} \(BC^{2} = AB^{2} + AC^{2} + 2AB.AC.\cos A\)
+\textbf{\ul{B}.} \(BC^{2} = AB^{2} + AC^{2} - 2AB.AC.\cos A\)
+
+\textbf{C.} \(BC^{2} = AB^{2} + AC^{2} + 2AB.AC.\text{sin}A\)
+\textbf{D.} \(BC^{2} = AB^{2} + AC^{2} - 2AB.AC.\text{sin}A\)
+
+\textbf{Câu 11.} Cho đoạn thẳng \(AB\) và hai điểm \(M,N\) thuộc đoạn
+thẳng \(AB\) sao cho: \(2MA = 3MB\). Phát biểu nào sau đây là đúng?
+
+\textbf{A.} \(2\overrightarrow{MA} = 3\overrightarrow{MB}\).
+\textbf{\ul{B}.} \(2\overrightarrow{MA} = - 3\overrightarrow{MB}\).
+\textbf{C.} \(2\overrightarrow{AB} = 3\overrightarrow{AM}\). \textbf{D.}
+\(3\overrightarrow{BM} = \overrightarrow{BA}\).
+
+\textbf{Câu 12.} Cho hệ bất phương trình bậc nhất hai ẩn
+
+\[\left\{ \begin{matrix}
+x - y \geq 0 \\
+x - y \leq 2 \\
+x + y \geq 0 \\
+x + y \leq 4
+\end{matrix} \right.\ \]
+
+có miền nghiệm được biểu diễn là hình tứ giác \(OABC\) (tham khảo hình
+vẽ).
+
+(THÊM HÌNH VẼ)
+
+Giá trị lớn nhất của biểu thức \(L = 2x + y\) bằng bao nhiêu?
+
+\textbf{A.} 6 . \textbf{\ul{B}.} 7 . \textbf{C.} 8 . \textbf{D.} 5 .
+
+\textbf{\textless g3\textgreater{}}
+
+\textbf{PHẦN II. Câu trắc nghiệm đúng sai.} Học sinh trả lời từ câu 1
+đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, Học sinh chọn đúng hoặc
+sai.
+
+\textbf{Câu 1.} Một cuộc thi bắn cung có 20 người tham gia. Trong lần
+bắn đầu tiên có 18 người bắn trúng mục tiêu. Trong lần bắn thứ hai có 15
+người bắn trúng mục tiêu. Trong lần bắn thứ ba chỉ còn 10 người bắn
+trúng mục tiêu.
+
+\textbf{\ul{a})} Số người bắn trượt mục tiêu trong lần đầu tiên là 2 .
+
+\textbf{b)} Số người bắn trượt mục tiêu trong lần bắn thứ hai là 6 .
+
+\textbf{c)} Số người bắn trượt mục tiêu trong lần bắn thứ nhất và thứ
+hai nhiều nhất là 8 .
+
+\textbf{\ul{d})} Số người bắn trúng mục tiêu trong cả ba lần bắn ít nhất
+là 3.
+
+\textbf{Câu 2.} Cho tứ giác \(ABCD\) có \(M,N\) lần lượt là trung điểm
+của các cạnh \(AB,CD\). Gọi \(O\) là trung điểm của đoạn thẳng \(MN\) và
+\(G\) là trọng tâm tam giác \(ABC\).
+
+\textbf{\ul{a})}
+\(\overrightarrow{DA} + \overrightarrow{DB} = 2\overrightarrow{DM}\).
+
+\textbf{b)}
+\(\overrightarrow{DA} + \overrightarrow{DB} + \overrightarrow{DC} = 2\overrightarrow{DO}\).
+
+\textbf{c)}
+\(\overrightarrow{DA} + \overrightarrow{DB} + \overrightarrow{DC} = 2\overrightarrow{DG}\).
+
+\textbf{d)} \(\overrightarrow{DO} = 2\overrightarrow{DG}\).
+
+\textbf{Câu 3.} Cho hình bình hành \(ABCD\). Gọi \(O\) là giao điểm của
+\(AC\) và \(BD\) (Hình bên).
+
+(THÊM HÌNH VẼ)
+
+\textbf{\ul{a})} \(\overrightarrow{OA}\) và \(\overrightarrow{OC}\) là
+hai vectơ đối nhau.
+
+\textbf{b)} \(\overrightarrow{OB}\) và \(\overrightarrow{DO}\) là hai
+vectơ đối nhau.
+
+\textbf{\ul{c})}
+\(\overrightarrow{OA} + \overrightarrow{OC} = \overrightarrow{OB} + \overrightarrow{OD}\).
+
+\textbf{\ul{d})}
+\(\overrightarrow{OA} + \overrightarrow{OB} + \overrightarrow{OC} + \overrightarrow{OD} = \overrightarrow{AD} + \overrightarrow{CB}\).
+
+\textbf{Câu 4.} Lớp 10A có 40 học sinh, trong đó có 27 học sinh tham gia
+câu lạc bộ bóng rổ và 25 học sinh tham gia câu lạc bộ bóng đá.
+
+\textbf{\ul{a})} Số học sinh tham gia câu lạc bộ bóng rổ hoặc tham gia
+câu lạc bộ bóng đá nhiều nhất là 40.
+
+\textbf{b)} Số học sinh tham gia cả hai câu lạc bộ bóng rổ và bóng đá ít
+nhất là 10.
+
+\textbf{c)} Số học sinh không tham gia cả hai câu lạc bộ bóng rổ và bóng
+đá ít nhất là 1.
+
+\textbf{d)} Số học sinh không tham gia cả hai câu lạc bộ bóng rổ và bóng
+đá nhiều nhất là 10.
+
+\textbf{\textless g1\textgreater{}}
+
+\textbf{PHẦN III. Câu trắc nghiệm trả lời ngắn.} Học sinh trả lời từ câu
+1 đến câu 4.
+
+\textbf{Câu 1.} Cho hình chữ nhật \(ABCD\) có \(AB = 4,AD = 6\). Độ dài
+của vectơ
+\(\overrightarrow{u} = \overrightarrow{AB} + \overrightarrow{AC}\) bằng
+bao nhiêu?
+
+\textbf{A.} 10
+
+\textbf{Câu 2.} Để đo khoảng cách từ vị trí \(A\) đến vị trí \(B\) ở hai
+bên bờ hồ, bạn Hà tiến hành đo khoảng cách \(AC\) và các góc
+\(\widehat{BAC},\widehat{BCA}\). Kết quả nhận được là:
+\(AC = 21\text{~m},\widehat{BAC} = 58^{\circ}\) và
+\(\widehat{BCA} = 80^{\circ}\) (Hình bên). Khoảng cách từ vị trí \(A\)
+đến vị trí \(B\) là bao nhiêu mét (làm tròn kết quả đến hàng đơn vị của
+mét)?
+
+(THÊM HÌNH VẼ)
+
+\textbf{A.} 31
+
+\textbf{Câu 3.} Hai tàu đánh cá cùng xuất phát từ bến \(A\) và đi về hai
+vùng biển khác nhau theo hai nửa đường thẳng tạo với nhau một góc
+\(60^{\circ}\). Tàu thứ nhất chạy với tốc độ 8 hải lí một giờ và tàu thứ
+hai chạy với tốc độ 12 hải lí một giờ. Sau đúng 2 giờ thì khoảng cách
+giữa hai tàu là bao nhiêu hải lí (làm tròn kết quả đến hàng đơn vị của
+hải lí)?
+
+\textbf{A.} 21
+
+\textbf{Câu 4.} Có 100 tấm thẻ được đánh số thứ tự từ 1 đến 100 và được
+đặt ngửa trên bàn. Người ta lật ngược các tấm thẻ như sau:
+
+Lần thứ nhất, lật ngược tất cả các tấm thẻ có số thứ tự chia hết cho 2.
+
+Lần thứ hai, lật ngược tất cả các tấm thẻ có số thứ tự chia hết cho 5 .
+
+Hỏi sau lần thứ hai, có bao nhiêu tấm thẻ được đặt sấp. Biết rằng, khi
+bị lật ngược, thẻ đang ngửa sẽ thành sấp và thẻ đang sấp sẽ thành ngửa.
+
+\textbf{A.} 50
+
+\textbf{\textless g0\textgreater{}}
+
+\textbf{PHẦN IV. Tự luận.} Học sinh làm tự luận từ câu 1 đến câu 2.
+
+\textbf{Câu 1.} Để chế biến một hộp thực phẩm \(A\) cần
+\(0,2\text{~kg}\) cà chua và \(0,1\text{~kg}\) thịt; một hộp thực phẩm
+\(B\) cần \(0,2\text{~kg}\) cà chua và \(0,3\text{~kg}\) thịt. Lợi nhuận
+thu được từ 1 hộp thực phẩm \(A\) và 1 hộp thực phẩm \(B\) lần lượt là
+4000 đồng và 5000 đồng. Chị Hoa có \(2\text{~kg}\) cà chua và
+\(2\text{~kg}\) thịt để sản xuất các hộp thực phẩm \(A\) và \(B\). Với
+lượng nguyên liệu như trên, lợi nhuận lớn nhất chị Hoa có thể thu được
+là bao nhiêu nghìn đồng?
+
+\textbf{Câu 2.} Một xưởng sản xuất bàn và ghế. Thời gian để một công
+nhân hoàn thiện 1 chiếc bàn và 1 chiếc ghế lần lượt là 120 phút và 30
+phút. Xưởng có 4 công nhân, mỗi công nhân làm việc không quá 6 tiếng mỗi
+ngày. Biết rằng sản phẩm của xưởng luôn được tiêu thụ hết, mỗi chiếc bàn
+lãi 200 nghì đồng, mỗi chiếc ghế lãi 75 nghì đồng và số ghế không vượt
+quá 4 lần số bàn. Trong một ngày sản xuất, xưởng có thể thu được lợi
+nhuận lớn nhất là bao nhiêu tiền? Viết câu trả lời theo đơn vị triệu
+đồng.
+
+=============== MẪU CÁC CÂU ĐIỀN KẾT QUẢ CHO TRONDETRACNGHIEM =========
+(gần như going hệt SmartTest, chỉ khác là đáp án câu trả lời ngắn đặt sau chữ: ``\textbf{A.''} thay vì ``\textbf{Đáp án:''}
+
+\textbf{Câu 1.} Cho hình chữ nhật \(ABCD\) có \(AB = 4,AD = 6\). Độ dài
+của vectơ
+\(\overrightarrow{u} = \overrightarrow{AB} + \overrightarrow{AC}\) bằng
+bao nhiêu?
+
+\textbf{Đáp án:} 10
+
+\textbf{Câu 2.} Để đo khoảng cách từ vị trí \(A\) đến vị trí \(B\) ở hai
+bên bờ hồ, bạn Hà tiến hành đo khoảng cách \(AC\) và các góc
+\(\widehat{BAC},\widehat{BCA}\). Kết quả nhận được là:
+\(AC = 21\text{~m},\widehat{BAC} = 58^{\circ}\) và
+\(\widehat{BCA} = 80^{\circ}\) (Hình bên). Khoảng cách từ vị trí \(A\)
+đến vị trí \(B\) là bao nhiêu mét (làm tròn kết quả đến hàng đơn vị của
+mét)?
+
+(THÊM HÌNH VẼ)
+
+\textbf{Đáp án:} 31
